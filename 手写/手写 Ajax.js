@@ -1,9 +1,8 @@
-# Ajax 的实现
-- Ajax 是网络异步请求的统称
-- 有 XHR 和 Fetch 等实现方式
+// 手写 Ajax
+// Ajax 是网络异步请求的统称
+// 有 XHR 和 Fetch 等实现方式
 
-## XHR
-```js
+// XHR
 const ajaxXHR = (method, url) => {
     // 0 未调用 send
     // 1 已经调用 send 正在发送请求
@@ -20,13 +19,10 @@ const ajaxXHR = (method, url) => {
         }
     }
 }
-```
 
-## Fetch
-```js
+// Fetch
 const ajaxFetch = url => {
     // 需要设置才能使用 cookie
     // 错误状态码不会 reject
     return fetch(url).then(res => console.log(res))
 }
-```

@@ -1,7 +1,6 @@
-# flatten 的实现
-- `concat()` 不会更改现有数组
+// 手写 flatten
+// concat 不会更改现有数组
 
-```js
 const flatten = (arr) => {
     let res = []
 
@@ -23,4 +22,3 @@ const flatten = (arr) => {
 const arr = [0, 1, 2, [[3, 4]]]
 
 console.log(flatten(arr)) // [0, 1, 2, 3, 4]
-```

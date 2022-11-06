@@ -1,7 +1,6 @@
-# instanceof 的实现
-- 顺着原型链往上匹配
+// 手写 instanceof
+// 顺着原型链往上匹配
 
-```js
 const myInstanceof = (instance, origin) => {
     if (instance == null) return false 
 
@@ -30,4 +29,3 @@ console.log(myInstanceof([], Array))
 console.log(myInstanceof({}, Array))
 console.log(myInstanceof('abc', String))
 console.log(myInstanceof('abc', Object))
-```

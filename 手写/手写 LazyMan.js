@@ -1,11 +1,10 @@
-# LazyMan 的实现
-- 初始化任务队列
-- next 函数每次取出队头
-- eat 函数放入队列同步执行
-- sleep 函数放入队列异步执行
-- 最终都是以一个个执行
+// 手写 LazyMan
+// 初始化任务队列
+// next 函数每次取出队头
+// eat 函数放入队列同步执行
+// sleep 函数放入队列异步执行
+// 最终都是以一个个执行
 
-```js
 class LazyMan {
     constructor(name) {
         this.name = name
@@ -47,4 +46,3 @@ class LazyMan {
 
 const tao = new LazyMan('tao')
 tao.eat('苹果').eat('香蕉').sleep(2).eat('葡萄')
-```
