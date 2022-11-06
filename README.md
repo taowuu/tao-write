@@ -13,7 +13,7 @@
 
 - [手写 LazyMan](https://github.com/taowuu/tao-write/blob/main/%E5%AE%9E%E7%8E%B0/LazyMan%20%E7%9A%84%E5%AE%9E%E7%8E%B0.js)
 
-- [手写 curry](https://github.com/taowuu/tao-write/blob/main/%E5%AE%9E%E7%8E%B0/curry%20%E7%9A%84%E5%AE%9E%E7%8E%B0d.js)
+- [手写 curry](https://github.com/taowuu/tao-write/blob/main/%E5%AE%9E%E7%8E%B0/curry%20%E7%9A%84%E5%AE%9E%E7%8E%B0.js)
 
 - [手写 instanceof](https://github.com/taowuu/tao-write/blob/main/%E5%AE%9E%E7%8E%B0/instanceof%20%E7%9A%84%E5%AE%9E%E7%8E%B0.js)
 
