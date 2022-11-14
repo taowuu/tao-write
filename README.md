@@ -5,8 +5,7 @@
 
 - [手写 isNaN](https://github.com/taowuu/tao-fe-write/blob/main/write/isNaN.js)
 
-- [手写 flatten](https://github.com/taowuu/tao-write/blob/main/write/
-flatten.js)
+- [手写 flatten](https://github.com/taowuu/tao-write/blob/main/write/flatten.js)
 
 - [手写 getType](https://github.com/taowuu/tao-write/blob/main/write/getType.js)
 
