@@ -1,7 +1,7 @@
 # tao-write
 
 ## 手写
-- [手写 Generator](https://github.com/taowuu/tao-write/blob/main/write/generator.js)
+- [手写 generator](https://github.com/taowuu/tao-write/blob/main/write/generator.js)
 
 - [手写 isNaN](https://github.com/taowuu/tao-fe-write/blob/main/write/isNaN.js)
 
