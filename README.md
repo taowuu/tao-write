@@ -3,7 +3,7 @@
 ## 手写
 - [手写 generator](https://github.com/taowuu/tao-write/blob/main/write/generator.js)
 
-- [手写 isNaN](https://github.com/taowuu/tao-fe-write/blob/main/write/isNaN.js)
+- [手写 isNaN](https://github.com/taowuu/tao-write/blob/main/write/isNaN.js)
 
 - [手写 flatten](https://github.com/taowuu/tao-write/blob/main/write/flatten.js)
 
